@@ -1,0 +1,248 @@
+{
+  "@@locale": "en",
+  "image": "assets/images/usa_flag.png",
+  "@image": {
+    "description": "path for flag icon"
+  },
+
+  "edit": "Edit",
+  "@edit": {
+    "description": "Word for edit"
+  },
+  "description": "Description",
+  "@description": {
+    "description": "Word for description"
+  },
+  "date": "Date",
+  "@date": {
+    "description": "Word for date"
+  },
+  "credit": "Credit",
+  "@credit": {
+    "description": "Word for credit"
+  },
+  "reference": "Reference",
+  "@reference": {
+    "description": "Word for reference"
+  },
+  "references": "References",
+  "@references": {
+    "description": "Word for references"
+  },
+  "entity": "Entity",
+  "@entity": {
+    "description": "Word for entity"
+  },
+  "amount": "Amount",
+  "@amount": {
+    "description": "Word for amount"
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Word for cancel"
+  },
+  "document": "Document",
+  "@document": {
+    "description": "Word for document"
+  },
+  "details": "Details",
+  "@details": {
+    "description": "Word for details"
+  },
+  "valid_until": "Valid until",
+  "@valid_until": {
+    "description": "Words for valid until"
+  },
+  "expense": "Expenses",
+  "@expense": {
+    "description": "Word for expense"
+  },
+  "ascending": "Ascending",
+  "@ascending": {
+    "description": "Word for ascending"
+  },
+  "descending": "Descending",
+  "@descending": {
+    "description": "Word for descending"
+  },
+  "sort_by": "Sort by",
+  "@sort_by": {
+    "description": "Words for Sort by"
+  },
+  "apply": "Apply",
+  "@apply": {
+    "description": "Word for apply"
+  },
+  "confirm": "Confirm",
+  "@confirm": {
+    "description": "Word for confirm"
+  },
+  "receipt": "Receipt",
+  "@receipt": {
+    "description": "Word for receipt"
+  },
+
+  "prints": "Prints",
+  "@prints": {
+    "description": "Word for prints"
+  },
+  "balance": "Balance",
+  "@balance": {
+    "description": "Word for balance"
+  },
+  "printing_details": "Printing Details",
+  "@printing_details": {
+    "description": "Word for printing details"
+  },
+  "number_pages": "Number of Pages",
+  "@number_pages": {
+    "description": "Word for number of pages"
+  },
+  "cost": "Cost",
+  "@cost": {
+    "description": "Word for cost"
+  },
+  "printer": "Printer",
+  "@printer": {
+    "description": "Word for printer"
+  },
+  "document_name": "Document name",
+  "@document_name": {
+    "description": "Word for document name"
+  },
+  "account": "Account",
+  "@account": {
+    "description": "Word for account"
+  },
+  "type_paper": "Type of paper",
+  "@type_paper": {
+    "description": "Word for type of paper"
+  },
+  "charge_card": "Charge card",
+  "@charge_card": {
+    "description": "Word for charging card"
+  },
+  "back": "Back",
+  "@back": {
+    "description": "Word for back"
+  },
+
+
+
+
+  "downloading_file": "Downloading file...",
+  "@downloading_file": {
+    "description": "Words for downloading file"
+  },
+  "successful_transfer": "Your {name} was downloaded successfully",
+  "@successful_transfer": {
+    "description": "Title for notification after a file is transferred",
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "press_notif": "Click on the notification to open the file",
+  "@press_notif": {
+    "description": "Instructions for notification"
+  },
+
+  "could_not_download": "Could not download file",
+  "@could_not_download": {
+    "description": "Could not download file message"
+  },
+
+  "stop_editing": "Stop Editing",
+  "@stop_editing": {
+    "description": "message to stop editing widgets"
+  },
+  "choose_widget": "Choose a widget to add it to your personal area:",
+  "@choose_widget":{
+    "description": "message to choose widget"
+  },
+  "all_widgets_chosen": "All available widgets have already been added to your personal area!",
+  "@all_widgets_chosen": {
+    "description": "message when there are no more widgets to be added"
+  },
+  "last_movements": "Last Movements",
+  "@last_movements":{
+    "description": "title for expenses widget"
+  },
+  "last_prints": "Last Prints",
+  "@last_prints":{
+    "description": "title for prints widget"
+  },
+  "bank_references": "Bank References",
+  "@bank_references":{
+    "description": "title for bank references widget"
+  },
+  "printing_quotas": "Printing Quotas",
+  "@printing_quotas":{
+    "description": "title for printing quotas widget"
+  },
+  "bank_references_is_empty":"There are no bank references available",
+  "@bank_references_is_empty":{
+    "description": "message when user has no bank references active"
+  },
+  "prints_is_empty":"There are no prints available",
+  "@prints_is_empty":{
+    "description": "message when user has no available prints"
+  },
+  "expenses_is_empty":"There are no expenses available",
+  "@expenses_is_empty": {
+    "description": "message when user has no active expenses"
+  },
+  "printing_quotas_is_empty":"There are no printing quotas available",
+  "@printing_quotas_is_empty": {
+    "description": "message when user has no previous printing quotas"
+  },
+  "printing_quotas_page_title":"Printing quotas attribution history",
+  "@printing_quotas_page_title": {
+    "description": "title of the printing quotas page"
+  },
+  "declaration_of_payments":"Declaration of payments",
+  "@declaration_of_payments": {
+    "description": "name of the Declaration of payments file"
+  },
+  "order_limit_date":"Payment deadline",
+  "@order_limit_date": {
+    "description": "parameter to order by payment deadline"
+  },
+  "order_fees":"Fees",
+  "@order_fees": {
+    "description": "parameter to order by Fees"
+  },
+  "order_amount":"Amount to pay",
+  "@order_amount": {
+    "description": "parameter to order by amount to pay"
+  },
+  "expenses_filter_title":"Expenses filter options",
+  "@expenses_filter_title": {
+    "description": "title of the expenses filter widget"
+  },
+  "generate_bank_reference":"Create reference",
+  "@generate_bank_reference": {
+    "description": "text for button to generate bank references"
+  },
+  "confirm_ref_gen": "Do you want to generate a bank reference for the following expenses:",
+  "@confirm_ref_gen" : {
+    "description": "confirmation for reference generation"
+  },
+  "value_over_1": "The value must be greater than 1€",
+  "@value_over_1" : {
+    "description": "warning that inputted amount must be over 1€"
+  },
+  "valid_amount": "Input a valid amount",
+  "@valid_amount" : {
+    "description": "warning that inputted amount must not be null"
+  },
+  "notification_title": "Notifications",
+  "@notification_title": {
+    "description": "title for notifications page"
+  },
+  "notification_does_not_exist": "There are no notifications to display",
+  "@notification_does_not_exist" : {
+    "description": "message when there are no notifications"
+  }
+}
